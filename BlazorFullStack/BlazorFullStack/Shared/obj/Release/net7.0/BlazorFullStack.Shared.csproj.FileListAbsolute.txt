@@ -1,0 +1,12 @@
+/Users/victoria/Projects/BlazorFullStack/BlazorFullStack/Shared/bin/Release/net7.0/BlazorFullStack.Shared.deps.json
+/Users/victoria/Projects/BlazorFullStack/BlazorFullStack/Shared/bin/Release/net7.0/BlazorFullStack.Shared.dll
+/Users/victoria/Projects/BlazorFullStack/BlazorFullStack/Shared/bin/Release/net7.0/BlazorFullStack.Shared.pdb
+/Users/victoria/Projects/BlazorFullStack/BlazorFullStack/Shared/obj/Release/net7.0/BlazorFullStack.Shared.csproj.AssemblyReference.cache
+/Users/victoria/Projects/BlazorFullStack/BlazorFullStack/Shared/obj/Release/net7.0/BlazorFullStack.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victoria/Projects/BlazorFullStack/BlazorFullStack/Shared/obj/Release/net7.0/BlazorFullStack.Shared.AssemblyInfoInputs.cache
+/Users/victoria/Projects/BlazorFullStack/BlazorFullStack/Shared/obj/Release/net7.0/BlazorFullStack.Shared.AssemblyInfo.cs
+/Users/victoria/Projects/BlazorFullStack/BlazorFullStack/Shared/obj/Release/net7.0/BlazorFullStack.Shared.csproj.CoreCompileInputs.cache
+/Users/victoria/Projects/BlazorFullStack/BlazorFullStack/Shared/obj/Release/net7.0/BlazorFullStack.Shared.dll
+/Users/victoria/Projects/BlazorFullStack/BlazorFullStack/Shared/obj/Release/net7.0/refint/BlazorFullStack.Shared.dll
+/Users/victoria/Projects/BlazorFullStack/BlazorFullStack/Shared/obj/Release/net7.0/BlazorFullStack.Shared.pdb
+/Users/victoria/Projects/BlazorFullStack/BlazorFullStack/Shared/obj/Release/net7.0/ref/BlazorFullStack.Shared.dll

@@ -1,0 +1,75 @@
+﻿<Properties StartupConfiguration="{8166A4B3-7995-42AD-BE92-FECC476FF0DB}|https">
+  <MonoDevelop.Ide.ItemProperties.BlazorFullStack.Server PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorFullStack/Client/Pages/SuperHeroes.razor">
+    <Files>
+      <File FileName="BlazorFullStack/Shared/SuperHero.cs" Line="19" Column="2" />
+      <File FileName="BlazorFullStack/Shared/Comic.cs" Line="12" Column="1" />
+      <File FileName="BlazorFullStack/Server/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="BlazorFullStack/Client/Pages/FetchData.razor" Line="1" Column="1" />
+      <File FileName="BlazorFullStack/Server/Controllers/SuperHeroController.cs" Line="31" Column="50" />
+      <File FileName="BlazorFullStack/Server/Program.cs" Line="45" Column="1" />
+      <File FileName="BlazorFullStack/Client/Pages/SuperHeroes.razor" Line="33" Column="31" />
+      <File FileName="BlazorFullStack/Client/Shared/NavMenu.razor" Line="29" Column="83" />
+      <File FileName="BlazorFullStack/Client/Services/SuperHeroService/ISuperHeroService.cs" Line="10" Column="20" />
+      <File FileName="BlazorFullStack/Client/Services/SuperHeroService/SuperHeroService.cs" Line="42" Column="10" />
+      <File FileName="BlazorFullStack/Client/Program.cs" Line="16" Column="1" />
+      <File FileName="BlazorFullStack/Client/_Imports.razor" Line="11" Column="56" />
+      <File FileName="BlazorFullStack/Client/Pages/Hero.razor" Line="41" Column="49" />
+      <File FileName="BlazorFullStack/Server/Data/DataContext.cs" Line="33" Column="26" />
+      <File FileName="BlazorFullStack/Server/appsettings.json" Line="16" Column="1" />
+      <File FileName="BlazorFullStack/Client/Pages/Index.razor" Line="1" Column="1" />
+      <File FileName="BlazorFullStack/Server/Pages/Error.cshtml" Line="1" Column="1" />
+      <File FileName="BlazorFullStack/Server/Pages/Error.cshtml.cs" Line="1" Column="1" />
+      <File FileName="BlazorFullStack/Server/Migrations/DataContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="BlazorFullStack/Server/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlazorFullStack" expanded="True">
+            <Node name="BlazorFullStack.Client" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="SuperHeroes.razor" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="SuperHeroService" expanded="True" />
+              </Node>
+              <Node name="Shared" expanded="True" />
+            </Node>
+            <Node name="BlazorFullStack.Server" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Error.cshtml" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="BlazorFullStack.Shared" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="BlazorFullStack" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

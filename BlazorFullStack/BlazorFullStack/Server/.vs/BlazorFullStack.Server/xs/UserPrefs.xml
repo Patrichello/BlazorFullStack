@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7669143E-3F53-4D85-B137-5F8DC742564C}|https">
+  <MonoDevelop.Ide.ItemProperties.BlazorFullStack.Server PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Documents/GitHub/BlazorFullStackServer/BlazorFullStack/BlazorFullStack/Client/Pages/SuperHeroes.razor">
+    <Files>
+      <File FileName="../../../../Documents/GitHub/BlazorFullStackServer/BlazorFullStack/BlazorFullStack/Client/Pages/SuperHeroes.razor" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlazorFullStack.Server" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="BlazorFullStack.Server" expanded="True">
+            <Node name="BlazorFullStack.Server" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
