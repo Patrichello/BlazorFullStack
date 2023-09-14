@@ -1,4 +1,5 @@
 # BlazorFullStack
+![App Screenshot](Screenshot1.png)
 
 ## Description
 
